@@ -3,7 +3,7 @@
 
 
 ### Parte 2: Ejercicios Prácticos
-Los ejercicios se encuentran divididos cada uno en una carpeta que los separa por cada actividad.
+Los ejercicios se encuentran divididos cada uno en una rama distinta que llevan los nombres de "Django", "Python", "api" y "MySQL". Cada rama contiene la actividad correspondiente al área.
 #### 1. Django
 #### *Crea un modelo Django para una aplicación de biblioteca con las siguientes características: Libros (título, autor, fecha de publicación) y Autores (nombre, fecha de nacimiento).*
 Para la creación de este modelo utilicé Postgres como base de datos, en el archivo settings.py en la línea 77 encontrarán la configuración para la base de datos, donde tiene como nombre ‘library’, el usuario es ‘postgres’ y dejé la contraseña como ‘root’ para no utilizar mi contraseña personal.
